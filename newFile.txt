@@ -1,8 +1,0 @@
-This file is for the introduction of my IOS learning project.
-
-This project is going to be a IOS app which can sync plain text and pictures
-among multiple platforms such Iphone, Mac, Ipad.
-
-newBee
-
-Can github find this change when I dont publish it in fact?
